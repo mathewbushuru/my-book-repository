@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["analyzer|lib/src/codegen/html.dart","analyzer|lib/src/codegen/text_formatter.dart","html|lib/dom.dart","path|lib/path.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async","io"]}

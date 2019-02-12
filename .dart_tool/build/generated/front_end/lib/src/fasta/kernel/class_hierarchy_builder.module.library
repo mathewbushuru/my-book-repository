@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["kernel|lib/ast.dart","kernel|lib/class_hierarchy.dart","front_end|lib/src/fasta/messages.dart","front_end|lib/src/fasta/names.dart","front_end|lib/src/fasta/scope.dart","front_end|lib/src/fasta/kernel/kernel_builder.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["angular_app|lib/app_component.dart","angular_app|lib/app_component.template.dart","angular_test|lib/angular_test.dart","test|lib/test.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}

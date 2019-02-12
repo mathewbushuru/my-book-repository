@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["test|lib/bootstrap/vm.dart","angular_app|test/app_test.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["isolate"]}

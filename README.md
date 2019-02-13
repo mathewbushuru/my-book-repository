@@ -3,6 +3,8 @@ A basic data-driven web app built using angular and dart.
   -acquire and display list of my books 
   -able to edit details of book from app 
   -navigate different views -search feature
+  
+  Access it here: https://mathewbushuru.github.io/my-book-repository/web/index.html
   *********
   TO RUN THE WEB APP
   - in command line, use pub get to get dependencies

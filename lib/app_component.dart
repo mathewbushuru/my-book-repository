@@ -1,9 +1,15 @@
 import 'package:angular/angular.dart';
+import 'package:angular_forms/angular_forms.dart';
+
+import 'src/book.dart';
 
 @Component(
   selector: 'my-app',
-  template: '<h1>Hello {{name}}</h1>',
+  directives: [coreDirectives,formDirectives],
+  templateUrl: 'app_component.html',
 )
 class AppComponent {
-  var name = 'Angular';
+  final title='My Book Repository';
+  Book book=Book(1, 'The Idiot');
 }
+
